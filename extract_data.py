@@ -1,5 +1,7 @@
 
 Hello there
+
+Hi German. From Rob. 11:32 am 
 def useful_PNiMo(my_exp, pNiMos, all_flux):
     useful_pNiMo = 0
     for pNiMo, flux in zip(pNiMos, all_flux):
